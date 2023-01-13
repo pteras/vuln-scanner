@@ -14,14 +14,14 @@ A Python script that scans a target system for open ports and known vulnerabilit
 3. Replace the credentials and the recipient email for the email alerts.
 4. Run the script: ```python scanner.py```
 
-##Features
+## Features
 
 * Scans for open ports on the target system
 * Identifies the software running on each open port
 * Checks for known vulnerabilities of the software
 * Send email alerts when vulnerabilities are detected
 
-###Note
+### Note
 
 * The NVD API has a usage limit, so you might need to get an API key to be able to use it.
 * Make sure that the usage of the IP address you provided is allowed by the internet service provider.
