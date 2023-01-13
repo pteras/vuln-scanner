@@ -1,5 +1,5 @@
 # Network Vulnerability Scanner
-> A Network Programming course project
+> For My Network Programming Course
 
 A Python script that scans a target system for open ports and known vulnerabilities.
 
