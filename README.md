@@ -26,4 +26,4 @@ A Python script that scans a target system for open ports and known vulnerabilit
 
 * The NVD API has a usage limit, so you might need to get an API key to be able to use it.
 * Make sure that the usage of the IP address you provided is allowed by the internet service provider.
-* You might need to explore other data sources and APIs like the Common Vulnerabilities and Exposures (CVE) database or the Open Vulnerability and Assessment Language (OVAL).
+* The NVD API is not perfect. You might need to explore other data sources and APIs for example the CVE or OPAL databases.
